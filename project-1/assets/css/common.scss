@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	padding: 0;
+	color: #999;
+	width: 8000px;
+
+}
+*{
+	font-size: 16px;
+}
+p{
+	color: blue;
+}
+.homepage,.timeline,.trigger, .pageview, .videopage{
+	width: 1280px;
+	float: left;
+	background: #7829FE;
+	color: red;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+.trigger{
+	background:  #FFED0A;
+}
+.timeline{
+   background: #FE7478;
+}
+.pageview{
+	background: #27D9D5;
+}
+.videopage{
+	background: #3679F2;
+}
+.logo-img{
+	margin-top: 20px;
+	margin-left: 30px;
+	position: fixed;
+	float: left;	
+}
+.social-icons{
+	position: absolute;
+	top: 80%;
+	margin-left: 20px;
+}
